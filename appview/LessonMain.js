@@ -27,8 +27,8 @@ export default class LessonMain extends Component {
       <TabNavigator.Item
         selected={this.state.selectedTab === selectedTab}
         title={title}
-        renderIcon={() => <Image source={{uri:image}} />}
-        renderSelectedIcon={() => <Image source={{uri:selectedImage}} />}
+        renderIcon={() => <Image source={{uri:image}} style={styles.tabbarIcon}/>}
+        renderSelectedIcon={() => <Image source={{uri:selectedImage}} style={styles.tabbarIcon}/>}
         badgeText="1"
         onPress={() => this.setState({ selectedTab: selectedTab })}>
         <Navigator
@@ -47,19 +47,28 @@ export default class LessonMain extends Component {
 
   render(){
     return(
-      <TabNavigator>
-        {/* 首页 */}
-        {this.renderTabBarItem("首页",'home','tabbar_home_30x30','tabbar_home_selected_30x30',LessonHome)}
-        {/* 海淘 */}
-        {this.renderTabBarItem("海淘",'shopping','tabbar_abroad_30x30','tabbar_abroad_selected_30x30',LessonText)}
-        {/* 小时风云榜 */}
-        {this.renderTabBarItem("小时风云榜",'hourlist','tabbar_rank_30x30','tabbar_rank_selected_30x30',LessonTextInput)}
-      </TabNavigator>
+      <View style={styles.container}>
+        <TabNavigator>
+          {/* 首页 */}
+          {this.renderTabBarItem("首页",'home','tabbar_home_30x30','tabbar_home_selected_30x30',LessonHome)}
+          {/* 海淘 */}
+          {this.renderTabBarItem("海淘",'shopping','tabbar_abroad_30x30','tabbar_abroad_selected_30x30',LessonText)}
+          {/* 小时风云榜 */}
+          {this.renderTabBarItem("小时风云榜",'hourlist','tabbar_rank_30x30','tabbar_rank_selected_30x30',LessonTextInput)}
+        </TabNavigator>
+      </View>
     )
   };
 };
 
 
 const styles = StyleSheet.create({
-
+  container:{
+    flex:1,
+    backgroundColor:'#e7e4eb'
+  },
+  tabbarIcon:{
+    width:30,
+    height:30
+  }
 });
