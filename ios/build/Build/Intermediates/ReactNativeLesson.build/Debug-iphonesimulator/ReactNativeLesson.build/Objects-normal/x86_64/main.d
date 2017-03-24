@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Lee/Movies/ReactNativeLesson/ios/ReactNativeLesson/main.m \
-  /Users/Lee/Movies/ReactNativeLesson/ios/ReactNativeLesson/AppDelegate.h
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/ReactNativeLesson/main.m \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/ReactNativeLesson/AppDelegate.h

@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Lee/Movies/ReactNativeLesson/ios/ReactNativeLessonTests/ReactNativeLessonTests.m \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/ReactNativeLessonTests/ReactNativeLessonTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -29,13 +29,13 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

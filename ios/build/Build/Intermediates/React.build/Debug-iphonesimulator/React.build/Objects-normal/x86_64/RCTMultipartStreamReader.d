@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

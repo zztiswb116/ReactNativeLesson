@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.m \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.m \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

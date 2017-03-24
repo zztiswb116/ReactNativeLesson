@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.m \
-  /Users/Lee/Movies/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
-  /Users/Lee/Movies/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.m \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/lee/Movies/ReactNative/ReactNativeLesson/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h
