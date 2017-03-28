@@ -7,6 +7,7 @@ import {
   Image
 } from 'react-native';
 
+import LessonFetch from './LessonFetch';
 
 export default class LessonHome extends React.Component {
   constructor(props) {
@@ -18,9 +19,10 @@ export default class LessonHome extends React.Component {
 
   render(){
     return(
-      <View style = {styles.container}>
-        <Text>nihaofhakdshfajshdfjk</Text>
-      </View>
+      // <View style = {styles.container}>
+      //   <Text>nihaofhakdshfajshdfjk</Text>
+      // </View>
+      <LessonFetch></LessonFetch>
     );
   };
 
@@ -30,6 +32,7 @@ export default class LessonHome extends React.Component {
 const styles = StyleSheet.create({
   container:{
     flex:1,
-    marginTop:100
+    marginTop:20,
+    backgroundColor:'#FFFFFF'
   }
 });
